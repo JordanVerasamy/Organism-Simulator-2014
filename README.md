@@ -1,4 +1,4 @@
-RPSLK-Evolution-Sim
+Organism Simulator 2014
 ===================
 
 ![Graph image](http://i.imgur.com/kYYZrHE.png)
